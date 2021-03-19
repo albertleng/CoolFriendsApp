@@ -114,8 +114,8 @@ The sql script to create database and tables in MySQL is included in [here](data
     4. Improving the look and feel of Cool Friends App.
 
 ### REFERENCES
-    1. <https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html>
-    2. <https://docs.spring.io/spring-framework/docs/2.0.x/reference/index.html>
+[Spring Web MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)  
+[The Spring Framework - Reference Documentation](https://docs.spring.io/spring-framework/docs/2.0.x/reference/index.html)
 
 
 
